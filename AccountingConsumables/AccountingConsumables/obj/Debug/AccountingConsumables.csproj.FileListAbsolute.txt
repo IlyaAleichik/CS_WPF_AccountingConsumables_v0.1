@@ -1,0 +1,623 @@
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\App.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.cache
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.lref
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe.config
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.pdb
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Buttons.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.g.resources
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.Properties.Resources.resources
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.exe
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.pdb
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\UserControls.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\App.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe.config
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.pdb
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\App.g.cs
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.cache
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.lref
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\App.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Buttons.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\UserControls.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.g.resources
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.Properties.Resources.resources
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.GenerateResource.cache
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.exe
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.pdb
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.g.cs
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_Content.g.cs
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\BugReport.g.cs
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\Comments.g.cs
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\ConnectWindow.g.cs
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_Content.g.cs
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\BugReport.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\Comments.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\ConnectWindow.baml
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.ResolveComReference.cache
+C:\Users\Ilya\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Texts.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Texts.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe.config
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.pdb
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csprojAssemblyReference.cache
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\App.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_Content.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.cache
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.lref
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\App.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Texts.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Buttons.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\UserControls.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.g.resources
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.Properties.Resources.resources
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.GenerateResource.cache
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CoreCompileInputs.cache
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.exe
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.pdb
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\stdole.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE80.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj80.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj2.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CopyComplete
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\stdole.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE80.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj80.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj2.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CopyComplete
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csprojResolveAssemblyReference.cache
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe.config
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.pdb
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\stdole.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE80.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj80.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj2.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csprojAssemblyReference.cache
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.baml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.baml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.baml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.g.cs
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.g.cs
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.g.cs
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\App.g.cs
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_Content.g.cs
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.cache
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.lref
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\App.baml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.baml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Texts.baml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.baml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Buttons.baml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\UserControls.baml
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.g.resources
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.Properties.Resources.resources
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.GenerateResource.cache
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CoreCompileInputs.cache
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CopyComplete
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.exe
+C:\Users\Ilyaa\OneDrive\Рабочий стол\КП_УРМ Алейчик\Final\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.pdb
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe.config
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.pdb
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\stdole.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE80.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj80.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj2.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\App.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_Content.g.cs
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.cache
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.lref
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\App.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Texts.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Buttons.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\UserControls.baml
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.g.resources
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.Properties.Resources.resources
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CopyComplete
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.exe
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.pdb
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Database.mdf
+C:\Users\Admin\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Database_log.ldf
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Database.mdf
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Database_log.ldf
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe.config
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.exe
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\AccountingConsumables.pdb
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\stdole.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\EnvDTE80.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj80.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\VSLangProj2.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csprojAssemblyReference.cache
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\WindowReportViewer.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\App.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_Content.g.cs
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.cache
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables_MarkupCompile.lref
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\App.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\CustomWindow\MainWindowStyle.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Texts.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Views\EditWindow.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\Buttons.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\Styles\UserControls.baml
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.g.resources
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.Properties.Resources.resources
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.GenerateResource.cache
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CoreCompileInputs.cache
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.csproj.CopyComplete
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.exe
+C:\Users\Ilyaa\OneDrive\DataBase\AccountingConsumables\AccountingConsumables\obj\Debug\AccountingConsumables.pdb

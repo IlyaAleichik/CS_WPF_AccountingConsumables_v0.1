@@ -1,0 +1,208 @@
+﻿<Window x:Class="AccountingConsumables.Views.EditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+     
+        xmlns:local="clr-namespace:AccountingConsumables.Views"
+        mc:Ignorable="d"
+        Style="{StaticResource MainWindowStyle}"
+        Title="Редактирование" Height="499.2" Width="978.429" Loaded="Window_Loaded">
+
+    <Grid>
+
+
+
+
+        <Grid VerticalAlignment="Top"  Background="LightGray">
+            <StackPanel Margin="3"  VerticalAlignment="Top" Orientation="Horizontal" Height="30">
+                <Button Margin="3,0,4,0" x:Name="add_btn" Width="90" Content="Добавить" Style="{StaticResource Button}"  Click="Add_btn_Click"/>
+                <Button Margin="0,0,4,0" x:Name="delete_btn" Width="90" Content="Удалить" Style= "{StaticResource Button}"  Click="delete_btn_Click" />
+                <Button Margin="0,0,4,0" x:Name="save_btn" Width="90" Content="Сохранить" Style= "{StaticResource Button}" Click="save_btn_Click" />
+                <ComboBox   Width="162" SelectionChanged="CatBox_SelectionChanged" >
+                    <ComboBoxItem Content="Типы материалов" />
+                    <ComboBoxItem Content="Поставщики" />
+                    <ComboBoxItem Content="Материалы" />
+                    <ComboBoxItem Content="Заказы" />
+                    <ComboBoxItem Content="Подразделения" />
+                    <ComboBoxItem Content="Категории" />
+                    <ComboBoxItem Content="Оборудование" />
+                    <ComboBoxItem Content="Расходы" />
+
+
+                </ComboBox>
+            </StackPanel>
+        </Grid>
+
+          
+ 
+        <Grid Margin="15,40,623,15">
+
+
+            <Grid x:Name="TypeMaterialGrid" Visibility="Visible">
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Orientation="Vertical">
+                        <Label Margin="3" x:Name="ID" Content="ID" Height="25" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Margin="3" x:Name="lNameTypeMaterial" Content="Наименование" Height="25" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                    </StackPanel>
+                    <StackPanel  Orientation="Vertical">
+                        <TextBox Margin="3" x:Name="selID" HorizontalAlignment="Center" Height="25" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                        <TextBox Margin="3" x:Name="txtNameTypeMat" HorizontalAlignment="Center" Height="25" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <Grid x:Name="ProvidersGrid" Visibility="Hidden" >
+                <StackPanel Orientation="Horizontal" Visibility="Visible">
+                    <StackPanel Orientation="Vertical">
+                   
+                        <Label Margin="3" x:Name="lNameOrg"   Height="25" Content="Организация" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Margin="3" x:Name="lPhone"   Height="25" Content="Телефон" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <Label Margin="3" x:Name="lAdressProviders"  Height="25" Content="Адрес" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                    </StackPanel>
+                    <StackPanel  Orientation="Vertical">
+                     
+                        <TextBox Margin="3" x:Name="txtNameOrg" HorizontalAlignment="Left" Height="25"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                        <TextBox Margin="3" x:Name="txtPhone" HorizontalAlignment="Left" Height="25" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                        <TextBox Margin="3" x:Name="txtAdressProviders" HorizontalAlignment="Left" Height="25"   Text="" VerticalAlignment="Top" Width="120"/>
+
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <Grid  x:Name="MaterialsGrid" Visibility="Hidden">
+                <StackPanel Orientation="Horizontal" >
+                    <StackPanel Orientation="Vertical">
+                    
+                        <Label Margin="3" Height="25" x:Name="lNameMaterials" Content="Наименование" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Margin="3" Height="25" x:Name="lCountMaterials" Content="Кол-во" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Margin="3"  Height="25" x:Name="lDateReceipt" Content="Дата поступления" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <Label Margin="3" Height="25" x:Name="lLife" Content="Срок службы" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Margin="3" Height="25" x:Name="lFKIDTypeMaterial" Content="Тип материала" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    </StackPanel>
+                    <StackPanel  Orientation="Vertical">
+            
+                        <TextBox  Margin="3" x:Name="txtNameMaterials" HorizontalAlignment="Left" Height="25" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                        <TextBox   Margin="3" x:Name="txtCountMaterials" HorizontalAlignment="Left" Height="25"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                        <DatePicker  Margin="3" x:Name="dateDateReceipt" HorizontalAlignment="Left" Height="25"   Text="" VerticalAlignment="Top" Width="120"/>
+                        <DatePicker  Margin="3" x:Name="dateLife" HorizontalAlignment="Left" Height="25"  Text="" VerticalAlignment="Top" Width="120"/>
+                        <ComboBox  Margin="3" x:Name="txtFKIDTypeMaterial" HorizontalAlignment="Left" Height="25"  Text="" VerticalAlignment="Top" Width="120"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+
+            <Grid  x:Name="OrdersGrid" Visibility="Hidden">
+                <StackPanel Orientation="Horizontal" >
+                    <StackPanel Orientation="Vertical">
+                       
+                        <Label Margin="3" x:Name="lDateOrder" Content="Дата заказа" HorizontalAlignment="Left" Height="25"  VerticalAlignment="Top"/>
+                        <Label Margin="3" x:Name="lCountOrderMat" Content="Кол-во" HorizontalAlignment="Left" Height="25"  VerticalAlignment="Top"/>
+                        <Label Margin="3" x:Name="lMat" Content="Материалы" HorizontalAlignment="Left" Height="25"  VerticalAlignment="Top"/>
+                        <Label Margin="3" x:Name="lProv" Content="Постащики" HorizontalAlignment="Left" Height="25"  VerticalAlignment="Top"/>
+                    </StackPanel>
+                    <StackPanel  Orientation="Vertical">
+                      
+                        <DatePicker Margin="3" x:Name="txtDateOrder" HorizontalAlignment="Left" Height="25" Text="" VerticalAlignment="Top" Width="120"/>
+                        <TextBox Margin="3" x:Name="txtCounOrdertMaterials" HorizontalAlignment="Left" Height="25"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                        <ComboBox Margin="3" x:Name="boxMaterials" HorizontalAlignment="Left" Height="25" Text="" VerticalAlignment="Top" Width="120"/>
+                        <ComboBox Margin="3" x:Name="boxProviders" HorizontalAlignment="Left" Height="25" Text="" VerticalAlignment="Top" Width="120"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <Grid  x:Name="DepartamentGrid" Visibility="Collapsed">
+                <StackPanel Orientation="Horizontal" Visibility="Visible">
+                    <StackPanel Orientation="Vertical">
+                 
+                        <Label Margin="3" Height="25" x:Name="lNameDep" Content="Наименование" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                    </StackPanel>
+                    <StackPanel  Orientation="Vertical">
+                       
+                        <TextBox Margin="3" Height="25" x:Name="txtNameDep" HorizontalAlignment="Left"   TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+
+            <Grid  x:Name="CategoryGrid" Visibility="Hidden">
+                <StackPanel Orientation="Horizontal" >
+                    <StackPanel Orientation="Vertical">
+                  
+                        <Label Margin="3" Height="25"  x:Name="lNameCategory" Content="Наименование" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                    </StackPanel>
+                    <StackPanel  Orientation="Vertical">
+           
+                        <TextBox Margin="3" x:Name="txtNameCategory" HorizontalAlignment="Left" Height="25"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <Grid  x:Name="EquipmentGrid" Visibility="Collapsed">
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Orientation="Vertical">
+              
+                        <Label Height="25"  Margin="3" x:Name="lModel" Content="Модель" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Height="25"  Margin="3" x:Name="lCountEquipment" Content="Кол-во" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Height="25"  Margin="3" x:Name="lCategory" Content="Категория" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <Label Height="25"  Margin="3" x:Name="lEqLife" Content="Срок службы" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    </StackPanel>
+                    <StackPanel  Orientation="Vertical">
+                     
+                        <TextBox  Margin="3" Height="25" x:Name="txtModel" HorizontalAlignment="Left"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                        <TextBox Height="25" x:Name="txtCountEquipment" HorizontalAlignment="Left"   Margin="3" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                        <ComboBox Height="25" x:Name="txtCategory" HorizontalAlignment="Left"  Margin="3"  Text="" VerticalAlignment="Top" Width="120"/>
+                        <DatePicker Height="25" x:Name="txtLife" HorizontalAlignment="Left"  Margin="3" VerticalAlignment="Top"/>
+                    </StackPanel>
+                </StackPanel>
+
+             
+               
+            </Grid>
+
+            <Grid  x:Name="ExpensesGrid" Visibility="Hidden">
+                <StackPanel Orientation="Horizontal" >
+                    <StackPanel Orientation="Vertical">
+         
+                        <Label Height="25"  Margin="3" x:Name="lDateExpensees" Content="Дата" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Height="25"  Margin="3" x:Name="lInvolved" Content="Расход/кол-во" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Height="25"  Margin="3" x:Name="lEq" Content="Оборудование" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Height="25"  Margin="3" x:Name="lMate" Content="Материал" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                        <Label Height="25"  Margin="3" x:Name="lDep" Content="Подразделение" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+                    </StackPanel>
+                    <StackPanel  Orientation="Vertical">
+                  
+                        <DatePicker Height="25" Margin="3" x:Name="txtDateExpensees" HorizontalAlignment="Left"   Text="" VerticalAlignment="Top" Width="120"/>
+                        <TextBox  Height="25" Margin="3" x:Name="txtInvolved" HorizontalAlignment="Left"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                        <ComboBox Height="25" Margin="3" x:Name="boxEquip" HorizontalAlignment="Left"  Text="" VerticalAlignment="Top" Width="120"/>
+                        <ComboBox Height="25" Margin="3" x:Name="boxMat" HorizontalAlignment="Left" Text="" VerticalAlignment="Top" Width="120"/>
+                        <ComboBox Height="25" Margin="3" x:Name="boxDep" HorizontalAlignment="Left"  Text="" VerticalAlignment="Top" Width="120"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+        </Grid>
+
+
+
+
+       
+
+        <DataGrid Margin="350,40,0,0" x:Name="dataGrid"  SelectionChanged="DataGrid_SelectionChanged"  BorderThickness="0" BorderBrush="{x:Null}"  Background="#FFF0F0F0" RowHeaderWidth="0"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  GridLinesVisibility="Horizontal" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="True" CanUserResizeRows="False" IsReadOnly="True" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle}" HorizontalGridLinesBrush="#dde8ef" CellStyle="{DynamicResource DataGridCellStyle}" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible"  >
+
+        </DataGrid>
+
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+
+
+</Window>

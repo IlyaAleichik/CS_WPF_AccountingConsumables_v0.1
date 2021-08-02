@@ -1,0 +1,38 @@
+﻿<Window x:Class="AccountingConsumables.WindowReportViewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:rv="clr-namespace:Microsoft.Reporting.WinForms;assembly=Microsoft.ReportViewer.WinForms"
+        mc:Ignorable="d"
+        Title="Генератор отчетов" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Margin="4">Выборка по модели:</TextBlock>
+            <TextBox x:Name="txtNameProd" Visibility="Collapsed"   VerticalAlignment="Top" HorizontalAlignment="Left" Margin="2" Width="200" Height="20" MouseDown="TextBox_MouseDown"></TextBox>
+            <ComboBox   VerticalAlignment="Top" HorizontalAlignment="Left" Margin="2" Width="200" Height="20" SelectionChanged="SelectReport_SelectionChanged">
+
+                <ComboBoxItem Content="Акт расхода материалов" >
+                                  
+                 </ComboBoxItem>
+                <ComboBoxItem Content="Движение материалов за период на дату">
+              
+                </ComboBoxItem>
+                <ComboBoxItem Content="Сроки службы оборудования">
+                
+                </ComboBoxItem>
+                <ComboBoxItem  Content="Оборудование в наличии">
+          
+                </ComboBoxItem>
+               
+               
+               
+            </ComboBox>
+            <Button  x:Name="btnGenerate" Click="btnGenerate_Click" Margin="2"  VerticalAlignment="Top" HorizontalAlignment="Left" Width="100" Height="20" Style="{StaticResource Button}" >Сформировать</Button>
+        </StackPanel>
+        
+        <WindowsFormsHost Margin="0,25,0,0" >
+            <rv:ReportViewer BackColor="white" BorderStyle="None" x:Name="ReportViewer"></rv:ReportViewer>
+        </WindowsFormsHost>
+    </Grid>
+</Window>
